@@ -57,6 +57,7 @@ class DayData:
 
 
 spelledOutNumbersMap = {
+    'kein': 0,
     'eins': 1,
     'einen': 1,
     'zwei': 2,
